@@ -9,4 +9,4 @@ Random-Python has a built-in module that you can use to make random numbers.
 
 Threading-This module constructs higher-level threading interfaces on top of the lower level _thread module.
 
-Os-his module provides a portable way of using operating system dependent functionality. 
+Os-this module provides a portable way of using operating system dependent functionality. 
